@@ -31,28 +31,8 @@ Backend | Security-minded Infrastructure Engineer
 
 ---
 
-### ⚡ What I care about
-
-- Systems that are hard to break > systems that look pretty
-- Understanding attack surface, not just writing features
-- Observability > guessing
-- Control > convenience
-- Real behavior > documentation promises
-
----
-
-### 🧨 Security mindset
-
-- 🔍 Web vulnerabilities (SSRF, IDOR, deserialization, auth flaws)
-- 🌐 Networking & protocol-level behavior
-- 🧪 Fuzzing, brute-force, edge-case hunting
-- 🕳 Thinking in terms of attack surface, not endpoints
-- ⚔️ Offense-first approach to understand defense
-
----
-
 ### 🧠 Currently exploring
 
 - Low-level networking & packet-level behavior  
-- Exploitation techniques & real-world attack chains  
+- Exploitation techniques & real-world attack chains
 - System design under failure & attack  
