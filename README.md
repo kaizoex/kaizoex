@@ -10,7 +10,6 @@ Backend | Security-minded Infrastructure Engineer
 ---
 
 ### 🛠 Tech stack
-- Backend:
 
 ![Python](https://img.shields.io/badge/Python_3.10+-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
@@ -23,15 +22,9 @@ Backend | Security-minded Infrastructure Engineer
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?logo=gitlab&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-
-- Networks:
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Networking](https://img.shields.io/badge/Networking-TCP%2FHTTP%2FProtocols-blue)
+![Networks](https://img.shields.io/badge/Networking-TCP%2FHTTP%2FProtocols-blue)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633)
-
-- Frontend:
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
