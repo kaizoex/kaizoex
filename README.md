@@ -23,7 +23,7 @@ Backend | Security-minded Infrastructure Engineer
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?logo=gitlab&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Networks](https://img.shields.io/badge/Networking-TCP%2FHTTP%2FProtocols-blue)
+![Net](https://img.shields.io/badge/Networking-TCP%2FHTTP%2FProtocols-blue)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
