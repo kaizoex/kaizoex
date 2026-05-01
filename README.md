@@ -1,11 +1,6 @@
-# Hello 👋, I'm Kaizo
+# Kaizo://
 
-Backend | Security-minded Infrastructure Engineer
-
-- 💻 Building backend systems & infrastructure
-- 🔐 Breaking systems, exploiting assumptions, finding weak points
-- ⚙️ Focused on performance, simplicity and control
-- 🧪 Learning systems by attacking them, not trusting docs
+I build and break systems sometimes
 
 ---
 
@@ -30,9 +25,3 @@ Backend | Security-minded Infrastructure Engineer
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
 ---
-
-### 🧠 Currently exploring
-
-- Low-level networking & packet-level behavior  
-- Exploitation techniques & real-world attack chains
-- System design under failure & attack  
